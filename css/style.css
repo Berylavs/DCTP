@@ -112,13 +112,9 @@ tbody:nth-child(even) {
 
   .caption {
     white-space: nowrap;
-    /* text-align: right; */
-    /* display: table-caption; */
+    word-wrap: break-word;
     font-weight: bold;
     padding: 6px;
-    /* vertical-align: middle ; */
-    /* align-items: center; */
-    /* align-content: center; */
   }
 
   .strength,
