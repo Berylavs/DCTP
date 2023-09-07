@@ -116,6 +116,7 @@ tbody:nth-child(even) {
     word-wrap: break-word;
     font-weight: bold;
     padding: 6px;
+    padding-right: 1px;
   }
 
   .strength,
