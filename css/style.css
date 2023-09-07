@@ -111,6 +111,7 @@ tbody:nth-child(even) {
   }
 
   .caption {
+    font-size: 14px;
     white-space: nowrap;
     word-wrap: break-word;
     font-weight: bold;
