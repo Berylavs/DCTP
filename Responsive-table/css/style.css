@@ -71,7 +71,7 @@ tbody:nth-child(even) {
 }
 
 /* responsive */
-@media (max-width: 1200px) {
+@media (max-width: 768px) {
   .table {
     display: flex;
     flex-direction: column;
